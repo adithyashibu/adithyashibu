@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITHYA S</h1>
 <img align="right alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-- 🔭 I’m currently working on cwave3
+- 🔭 I’m currently working on cwave3,a web 3.0 app
 
 - 🌱 I’m currently learning **react,solidity,blockchain**
 
