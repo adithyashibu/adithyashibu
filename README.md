@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITHYA S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyashibu&label=Profile%20views&color=0e75b6&style=flat" alt="adithyashibu" /> </p>
 
-- 🔭 I’m currently working on cwave3,a web3.0 app
+- 🔭 I’m currently working on **cwave3,a web3.0 app**
 
 - 🌱 I’m currently learning **react,solidity,blockchain**
 
